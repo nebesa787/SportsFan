@@ -1,0 +1,30 @@
+@font-face {
+    font-family: SegoeUi;
+    src: url('../fonts/SegoeUI-Light.ttf');
+    font-weight: 200;
+	font-display: swap;
+}
+@font-face {
+    font-family: SegoeUi;
+    src: url('../fonts/SegoeUI.ttf');
+    font-weight: 400;
+	font-display: swap;
+}
+@font-face {
+    font-family: SegoeUi;
+    src: url('../fonts/SegoeUI-SemiBold.ttf');
+    font-weight: 600;
+	font-display: swap;
+}
+@font-face {
+    font-family: SegoeUi;
+    src: url('../fonts/SegoeUI-Bold.ttf');
+    font-weight: 700;
+	font-display: swap;
+}
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/OpenSans-Regular.ttf');
+    font-weight: 400;
+	font-display: swap;
+}
